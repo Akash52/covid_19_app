@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/color_white"
+    android:background="@color/colorPrimary"
     tools:context=".MainActivity">
 
     <androidx.cardview.widget.CardView
@@ -116,6 +116,7 @@
         android:layout_height="fill_parent"
         android:layout_above="@+id/btnTrack"
         android:layout_below="@+id/cardViewGraph"
+
         android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginRight="20dp"
@@ -450,6 +451,7 @@
         android:background="@color/color_one"
         android:padding="5dp"
         android:text="Track Countries"
+        android:shadowRadius="@android:integer/config_longAnimTime"
         android:onClick="goTrackCountries"
         android:textColor="@android:color/white"
         android:textSize="18sp" />
