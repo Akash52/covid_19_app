@@ -1,6 +1,6 @@
 <p align="center">
 
-<h2 align="center">Project Title</h2>
+<h2 align="center">Covid-19 API APP</h2>
 
 <div align="center">
 
