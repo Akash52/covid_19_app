@@ -29,17 +29,12 @@ Project Purpose was people can efficiently show current situation of Covid-19.
 
 ### Prerequisites
 - Android studio
-```
-Give examples
-```
+
 
 ### Installing
 
 [All steps include in these blog !](https://mydeveloperplanet.com/2017/09/14/connect-with-git-repository-in-android-studio/)
 
-```
-Give the example
-```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Andoid](https://www.mongodb.com/) - Android App
